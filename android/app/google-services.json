@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241836876074",
+    "project_id": "asocialtest",
+    "storage_bucket": "asocialtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241836876074:android:3a704c03c1065d12587e53",
+        "android_client_info": {
+          "package_name": "com.example.asocialtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0o_1qSZ4k31O7Z2ypDNDbJX3ByYsFlsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
